@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+
+<script>
+    // 类型转换
+
+    // 其他类型转数字类型 :
+    // 1. parseInt() 转整数
+    /*console.log(parseInt("10"));// 转成整数的10
+     console.log(parseInt("10aa"));// 转成整数的10
+     console.log(parseInt("a10"));// 这个是NaN
+     console.log(parseInt("10dfd1"));// 转成整数的10
+     console.log(parseInt("10.98"));// 转成整数的10
+     console.log(parseInt("10.98adf"));// 转成整数的10
+     */
+    // 2.parseFloat() 转小数
+    //        console.log(parseFloat("10"));//  10
+    //        console.log(parseFloat("10aa"));// 10
+    //        console.log(parseFloat("a10"));// NaN
+    //        console.log(parseFloat("10dfd1"));// 10
+    //        console.log(parseFloat("10.98"));// 10.98
+    //        console.log(parseFloat("10.98adf"));// 10.98
+
+    // 3.Number() 转数字
+    console.log(Number("10"));//  10
+    console.log(Number("10aa"));// NaN
+    console.log(Number("a10"));// NaN
+    console.log(Number("10dfd1"));// NaN
+    console.log(Number("10.98"));// 10.98
+    console.log(Number("10.98adf"));// NaN
+
+    // 想要转整数 用parseInt 想要转小数 parseFloat
+    // 想要转数字Number() 这种方式要比上面两种方式严格
+
+
+    // 其他类型转字符串类型
+
+    // 其他类型转布尔类型
+</script>
+</body>
+</html>
