@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b561603d-4dbe-4f72-9db2-c3d97faa9bec" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/13类型转换.html" afterPath="$PROJECT_DIR$/13类型转换.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14操作符.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="01.iws" />
@@ -104,11 +104,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="13类型转换.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="13类型转换.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/13类型转换.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.78456014">
-              <caret line="61" column="26" selection-start-line="61" selection-start-column="26" selection-end-line="61" selection-end-column="26" />
+            <state vertical-scroll-proportion="-8.128205">
+              <caret line="57" column="11" selection-start-line="57" selection-start-column="11" selection-end-line="57" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="14操作符.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/14操作符.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="1.3464991">
+              <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -141,6 +151,7 @@
         <option value="$PROJECT_DIR$/11字符串类型.html" />
         <option value="$PROJECT_DIR$/12布尔类型.html" />
         <option value="$PROJECT_DIR$/13类型转换.html" />
+        <option value="$PROJECT_DIR$/14操作符.html" />
       </list>
     </option>
   </component>
@@ -317,7 +328,13 @@
       <option name="project" value="LOCAL" />
       <updated>1572504667710</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="其他类型转字符串类型&#10;其他类型转Boolean类型(这个重点记忆)">
+      <created>1572505811914</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1572505811914</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -360,7 +377,8 @@
     <MESSAGE value="第一次提交&#10;数字类型的最大值和最小值以及不要用小数去验证小数" />
     <MESSAGE value="介绍了 isNaN的使用" />
     <MESSAGE value="其他类型转数字类型" />
-    <option name="LAST_COMMIT_MESSAGE" value="其他类型转数字类型" />
+    <MESSAGE value="其他类型转字符串类型&#10;其他类型转Boolean类型(这个重点记忆)" />
+    <option name="LAST_COMMIT_MESSAGE" value="其他类型转字符串类型&#10;其他类型转Boolean类型(这个重点记忆)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -585,8 +603,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/13类型转换.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.78456014">
-          <caret line="61" column="26" selection-start-line="61" selection-start-column="26" selection-end-line="61" selection-end-column="26" />
+        <state vertical-scroll-proportion="-8.128205">
+          <caret line="57" column="11" selection-start-line="57" selection-start-column="11" selection-end-line="57" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14操作符.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.3464991">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
           <folding />
         </state>
       </provider>
