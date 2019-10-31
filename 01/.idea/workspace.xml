@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b561603d-4dbe-4f72-9db2-c3d97faa9bec" name="Default" comment="介绍了 isNaN的使用">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11字符串类型.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12布尔类型.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/13类型转换.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/10数字类型.html" afterPath="$PROJECT_DIR$/10数字类型.html" />
+    <list default="true" id="b561603d-4dbe-4f72-9db2-c3d97faa9bec" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/13类型转换.html" afterPath="$PROJECT_DIR$/13类型转换.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="01.iws" />
@@ -110,8 +107,8 @@
       <file leaf-file-name="13类型转换.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/13类型转换.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.508079">
-              <caret line="37" column="35" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="35" />
+            <state vertical-scroll-proportion="0.78456014">
+              <caret line="61" column="26" selection-start-line="61" selection-start-column="26" selection-end-line="61" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -314,7 +311,13 @@
       <option name="project" value="LOCAL" />
       <updated>1572495206970</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="其他类型转数字类型">
+      <created>1572504667710</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1572504667710</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -356,7 +359,8 @@
     <MESSAGE value="第一次提交&#10;" />
     <MESSAGE value="第一次提交&#10;数字类型的最大值和最小值以及不要用小数去验证小数" />
     <MESSAGE value="介绍了 isNaN的使用" />
-    <option name="LAST_COMMIT_MESSAGE" value="介绍了 isNaN的使用" />
+    <MESSAGE value="其他类型转数字类型" />
+    <option name="LAST_COMMIT_MESSAGE" value="其他类型转数字类型" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -581,8 +585,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/13类型转换.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.508079">
-          <caret line="37" column="35" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="35" />
+        <state vertical-scroll-proportion="0.78456014">
+          <caret line="61" column="26" selection-start-line="61" selection-start-column="26" selection-end-line="61" selection-end-column="26" />
           <folding />
         </state>
       </provider>
