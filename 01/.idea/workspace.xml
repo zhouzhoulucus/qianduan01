@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b561603d-4dbe-4f72-9db2-c3d97faa9bec" name="Default" comment="第一次提交&#10;">
+    <list default="true" id="b561603d-4dbe-4f72-9db2-c3d97faa9bec" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/10数字类型.html" afterPath="$PROJECT_DIR$/10数字类型.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -87,8 +87,8 @@
       <file leaf-file-name="10数字类型.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/10数字类型.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4847397">
-              <caret line="27" column="14" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
+            <state vertical-scroll-proportion="0.5924596">
+              <caret line="38" column="28" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -286,7 +286,13 @@
       <option name="project" value="LOCAL" />
       <updated>1572493764071</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="第一次提交&#10;数字类型的最大值和最小值以及不要用小数去验证小数">
+      <created>1572494305194</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1572494305194</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -326,7 +332,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一次提交&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="第一次提交&#10;" />
+    <MESSAGE value="第一次提交&#10;数字类型的最大值和最小值以及不要用小数去验证小数" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次提交&#10;数字类型的最大值和最小值以及不要用小数去验证小数" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -519,8 +526,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/10数字类型.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4847397">
-          <caret line="27" column="14" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
+        <state vertical-scroll-proportion="0.5924596">
+          <caret line="38" column="28" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
           <folding />
         </state>
       </provider>
